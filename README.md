@@ -1,1 +1,1 @@
-## All about character arrays and strings..
+## All about character arrays and strings.
